@@ -1,0 +1,66 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GameOfLife", "GameOfLife\GameOfLife.fsproj", "{7EE93678-E8B6-4186-83E9-DB183050138B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GameOfLifeAkka", "GameOfLifeAkka\GameOfLifeAkka.fsproj", "{E156289D-D959-4E0E-B0C0-B77C3708D1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Debug|x64.ActiveCfg = Debug|x64
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Debug|x64.Build.0 = Debug|x64
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Debug|x86.ActiveCfg = Debug|x86
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Debug|x86.Build.0 = Debug|x86
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Release|Any CPU.ActiveCfg = Release|x86
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Release|x64.ActiveCfg = Release|x64
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Release|x64.Build.0 = Release|x64
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Release|x86.ActiveCfg = Release|x86
+		{7EE93678-E8B6-4186-83E9-DB183050138B}.Release|x86.Build.0 = Release|x86
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|x64.Build.0 = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|x64.ActiveCfg = Release|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|x64.Build.0 = Release|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{E156289D-D959-4E0E-B0C0-B77C3708D1A0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-fsharp
+		$0.FSharpFormattingPolicy = $3
+		$3.DefaultFormat = $4
+		$4.IndentOnTryWith = False
+		$4.ReorderOpenDeclaration = False
+		$4.SpaceAfterComma = True
+		$4.SpaceAfterSemicolon = True
+		$4.SpaceAroundDelimiter = True
+		$4.SpaceBeforeArgument = True
+		$4.SpaceBeforeColon = True
+		$3.scope = text/x-fsharp
+	EndGlobalSection
+EndGlobal

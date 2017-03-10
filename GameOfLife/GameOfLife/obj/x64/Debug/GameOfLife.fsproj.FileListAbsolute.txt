@@ -1,0 +1,9 @@
+C:\temp\GameOfLife\GameOfLife\bin\Debug\App.config
+C:\temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\temp\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\temp\GameOfLife\GameOfLife\bin\Debug\FSharp.Core.dll
+C:\temp\GameOfLife\GameOfLife\bin\Debug\System.ValueTuple.dll
+C:\temp\GameOfLife\GameOfLife\bin\Debug\FSharp.Core.xml
+C:\temp\GameOfLife\GameOfLife\obj\x64\Debug\GameOfLife.exe
+C:\temp\GameOfLife\GameOfLife\obj\x64\Debug\GameOfLife.pdb

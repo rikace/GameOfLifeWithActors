@@ -1,0 +1,6 @@
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe.mdb
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe.mdb
+/Users/riccardoterrell/My/GameOfLife/GameOfLife/bin/Debug/FSharp.Core.dll

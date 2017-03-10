@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7EE93678-E8B6-4186-83E9-DB183050138B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameOfLife/GameofLife.fs">
+    <Files>
+      <File FileName="GameOfLife/GameofLife.fs" Line="110" Column="25" />
+      <File FileName="GameOfLife/Program.fs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.GameOfLife PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
