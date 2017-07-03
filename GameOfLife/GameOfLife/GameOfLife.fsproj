@@ -58,7 +58,9 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="GameofLife.fs" />
+    <Compile Include="GameOfLifeLogic.fs" />
+    <Compile Include="GameOfLifeUI.fs" />
+    <Compile Include="GameOfLifeDriver.fs" />
     <Compile Include="Program.fs" />
     <None Include="Script.fsx" />
     <Content Include="App.config">
