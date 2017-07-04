@@ -35,7 +35,7 @@ let run() =
 
     do updateAgent.Start()
 
-    let timer = new System.Timers.Timer(200.)
+    let timer = new System.Timers.Timer(float Environment.ProcessorCount* 70.)
     let dispose = timer.Elapsed |> Observable.subscribe(fun _ -> updateView())
     timer.Start()
     dispose
